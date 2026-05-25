@@ -1,1 +1,14 @@
-This is a test for hello_world.txt
+Commandes utiles :
+
+
+Projets :
+
+git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+git add .
+git commit -m "Description du travail effectué"
+git push
+
+Status :
+
+git status
+git log
